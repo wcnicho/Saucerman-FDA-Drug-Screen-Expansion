@@ -1,7 +1,7 @@
 %% makeSimulated Sheet.m
 % Created 12-Jul-2022 WN: agonist/antagonist and gene columns, gene mapping
 % Edited 13-Jul-2022 WN: add index mapping, handle dual agonist/antagonist
-% case
+% Edited 05-Sept-2022 WN: added target action and gene ID
 
 %% housekeeping
 close all;

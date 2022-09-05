@@ -1,5 +1,5 @@
 # Saucerman-FDA-Drug-Screen-Expansion
-- Expands upon the Drug Screen created by Saucerman et al. to include more drug targets
+- Expands upon the Drug Screen created by [https://doi.org/10.1002/psp4.12599](Saucerman et al.) to include more drug targets
 - Uses and updated Sex-differentiated model created by Kelsey Watts et al.
  
  # Files
